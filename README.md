@@ -1,9 +1,6 @@
 
 <html>
 <head>
-<title>HTML Form
-Assignment</title>
-</head>
 <body>
 <form>
 <table border="1" align="center"
@@ -54,9 +51,9 @@ type="number"></td>
 </tr>
 <tr height="80px">
 <td>
-  <label="a8">Address</label></td>
-<td><textarea id="a8" rows="3">
-</textarea></td>
+   <label>Address</label>
+   
+</td>
 </tr>
 <tr>
 <td><label
