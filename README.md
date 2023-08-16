@@ -1,9 +1,6 @@
-# REGISTRACTION FORM
-<!DOCTYPE html>
+
 <html>
 <head>
-  
-  <title>Regstration Form</title>
 </head>
 <body>
      <table border="1">
