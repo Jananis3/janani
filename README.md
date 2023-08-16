@@ -74,9 +74,7 @@ for="a9">State</label> </td>
 <td><input type="submit"
 value="submit"/></td>
 </tr>
-</table
-</form>
-</body>
+</table>
 </html>
 
 
